@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jockey+One&display=swap');
+
+.body{
+    padding: 45px;
+}
+
+.body h1{
+    font-size: 36px;
+    font-weight: 200;
+}
+
+.body p{
+   font-size: 16px;
+font-weight: 200;
+font-family: "Inter", sans-serif;
+}
+
+label{
+    display: block;
+    font-family:  "Inter", sans-serif;
+    font-size: 20px;
+}
+
+input{
+    width: 330px;
+    height: 54px;
+    background-color: #F8F0E5;
+    border-radius: 27px;
+    margin: 10px;
+    
+}
+
+#username{
+    margin-bottom: 52px;
+}
+
+
+.forget{
+    display: flex;
+    height: 56px;
+    width: 350px;
+    justify-content: space-between;
+    align-items: center;
+}
+.left{
+    display: flex;
+    align-items:center ;
+}
+.forget input{
+    width: 20px;
+    height: 20px;
+}
+.forget label{
+    display: inline;
+    font-size: 12px;
+    font-family:  "Inter", sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+    font-size: 12px;
+    font-family:  "Inter", sans-serif;
+    
+}
+
+.sinup{
+    text-align: center;
+}
+span{
+   font-size: 12px; 
+   font-family:  "Inter", sans-serif;
+}
+.sinup a{
+    text-decoration: underline;
+    color: #DAC0A3;
+}

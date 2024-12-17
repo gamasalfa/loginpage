@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+
+
+*{
+    font-family: "Jockey One", sans-serif;
+    color: #FFFFFF;
+}
+
+#slash{
+    background-color:#102C57 ;
+    width: 430px;
+    height: 932px;
+    margin: auto;
+    border-radius: 9px;
+}
+
+#logo{
+    width: 170px;
+    height: 45px;
+    padding: 45px;
+}
+
+#hero_photo{
+width: 321px;
+height: 249px;
+padding: 50px;
+
+}
+.text{
+    text-align: center;
+}
+.text h1{
+    font-size: 36px;
+    font-weight: 200;
+    padding-bottom: -50px;
+}
+.text h2{
+    font-size: 16px;
+    font-weight: lighter;
+
+}
+.button{
+    text-align: center;
+}
+.button a{
+    display: inline-block;
+    padding:10px 150px;
+    background-color:#DAC0A3 ;
+    border-radius: 50px;
+    margin-bottom:20px ;
+    text-decoration: none;
+    color: black;
+    
+    
+   
+}
+.flotter{
+    text-align: center;
+}
+.flotter h3{
+    font-size:14px ;
+    font-weight: 100;
+
+}
+.flotter img{
+    padding:7px;
+}
